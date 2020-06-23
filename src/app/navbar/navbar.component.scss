@@ -1,0 +1,20 @@
+nav {
+    background: #fc7575;
+    height: 60px;
+}
+
+.app-nav-list {
+    display: flex;
+    list-style-type: none;
+    height: 100%;
+    align-items: center;
+}
+
+.app-nav-list li {
+    margin: 10px;
+    
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
